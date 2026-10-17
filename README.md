@@ -118,34 +118,6 @@ A comprehensive Software Requirement Specification (SRS) and backend architectur
 
 ---
 
-## 💼 Experience
-
-**Backend Software Engineer** | *Independent Product Development* <br>
-*Sep 2025 – Present* <br>
-Architecting scalable backend infrastructure and web services utilizing the Python ecosystem. Focus on highly available APIs, database optimization, and software quality engineering protocols.
-* Designed modular project structures using Flask and Django REST Framework.
-* Implemented complex ORM models for order management and user state tracking.
-* Managed virtual environment deployments and remote procedure call integrations.
-* **Skills:** `Python` `Django` `Flask` `SQLAlchemy` `REST APIs` `System Design`
-
-**Digital Brand Manager & Creator** | *Wealth Mindset* <br>
-*Apr 2026 – Present* <br>
-Directing content strategy, digital branding, and audience growth analytics for a financial and personal growth platform.
-* Optimized channel reach and algorithmic engagement metrics.
-* Designed premium visual assets (2560x1440 branding) maintaining a distinct luxury aesthetic.
-* **Skills:** `Digital Strategy` `Analytics` `Content Architecture` `Brand Identity`
-
----
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| **Systems Architecture Excellence** | Authored comprehensive SRS documentation for scalable carbon-tracking platforms. |
-| **Advanced Data Science Completion** | Completed rigorous coursework covering SQL/NoSQL paradigms, EDA, and DS lifecycles. |
-| **Academic Research** | Conducted deep-dive analyses into Byzantine Fault Tolerance and CAP Theorem trade-offs. |
-
----
 
 ## 📜 Certifications
 
